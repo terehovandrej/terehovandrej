@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terehovandrej
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 
 <!---
 terehovandrej/terehovandrej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
